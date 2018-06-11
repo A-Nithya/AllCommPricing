@@ -1,0 +1,56 @@
+.float-right{
+	float:right;
+}
+.border{
+    border:solid 1px rgb(156, 164, 171);
+}
+.no-border{
+    border:none;
+}
+.font12{
+    font-size:12px;
+}
+  .label-black{
+    color: #333333 !important;
+}
+.label-grey{
+    color: #aaaaaa !important;
+}
+.font12{
+    font-size:12px;
+}
+.label-bold{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  font-family: HPE-Bold;
+}
+.label-normal{
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+
+  font-family: HPE-Regular;
+}
+.block{
+    display: block !important;
+}
+.padding-top22{
+    padding-top: 22px !important;
+}
+.padding-top19{
+    padding-top: 19px;
+}
+.inline-block{
+    display: inline-block !important;
+}
+.bg-colorgreen{
+    background-color: #00b388;
+}
+.label-white{
+    color: #ffffff;
+}

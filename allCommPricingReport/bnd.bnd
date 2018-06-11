@@ -1,0 +1,4 @@
+Bundle-Name: allCommPricingReport
+Bundle-SymbolicName: com.hpe.allComm.pricingReport
+Bundle-Version: 1.0.0
+Export-Package: com.hpe.allComm.pricingReport.constants

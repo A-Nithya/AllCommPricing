@@ -1,0 +1,4 @@
+Bundle-Name: allCommQuickSearch
+Bundle-SymbolicName: com.hpe.allComm.quickSearch
+Bundle-Version: 1.0.0
+Export-Package: com.hpe.allComm.quickSearch.constants
