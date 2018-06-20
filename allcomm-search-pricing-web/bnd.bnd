@@ -1,0 +1,5 @@
+Bundle-Name: allcomm-search-pricing-web
+Bundle-SymbolicName: com.hpe.allcomm.search.pricing
+Bundle-Version: 1.0.0
+Export-Package: com.hpe.allcomm.search.pricing.constants
+
